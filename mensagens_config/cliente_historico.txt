@@ -1,0 +1,6 @@
+[ CAPTCHA ]
+ID: {id_captcha}
+RESPOSTA: {resposta}
+
+[ TRABALHADOR ]
+ID: {id_trabalhador}

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Documentação da API</title>
+    <style>
+        body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            color: #336699;
+            text-align: center;
+        }
+
+        .content {
+            max-width: 600px;
+            margin: 40px auto;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+
+        .endpoint {
+            margin-bottom: 20px;
+        }
+
+        .endpoint-title {
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        .endpoint-description {
+            margin-top: 10px;
+            color: #444;
+        }
+
+        .endpoint-examples {
+            margin-top: 10px;
+        }
+
+        .example {
+            margin-bottom: 10px;
+        }
+
+        .example-title {
+            font-weight: bold;
+        }
+
+        .example-code {
+            font-family: monospace;
+            background-color: #f2f2f2;
+            padding: 5px;
+            overflow: auto;
+        }
+
+        .note {
+            font-size: 12px;
+            color: #777;
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Documentação da API</h1>
+    <div class="content">
+        <div class="endpoint">
+            <h2 class="endpoint-title">Endpoint: /api/solution/solver</h2>
+            <p class="endpoint-description">Faz upload de um captcha para ser resolvido.</p>
+            <div class="endpoint-examples">
+                <div class="example">
+                    <h3 class="example-title">Exemplo de uso com Python:</h3>
+                    <pre class="example-code">
+import requests
+
+url = 'http://solve2earn.ddns.net/api/solution/solver?token=12345'
+files = {'captcha': open('captcha.png', 'rb')}
+response = requests.post(url, files=files)
+print(response.json())
+                    </pre>
+                </div>
+                <div class="example">
+                    <h3 class="example-title">Exemplo de uso com cURL:</h3>
+                    <pre class="example-code">
+curl -X POST -F 'token=12345' -F 'captcha=@captcha.png' http://solve2earn.ddns.net/api/solution/solver
+                    </pre>
+                </div>
+                <div class="example">
+                    <h3 class="example-title">Exemplo de uso com JavaScript:</h3>
+                    <pre class="example-code">
+// Exemplo usando o método fetch
+const url = 'http://solve2earn.ddns.net/api/solution/solver?token=12345';
+const fileInput = document.querySelector('#captchaFile');
+const formData = new FormData();
+formData.append('captcha', fileInput.files[0]);
+
+fetch(url, {
+  method: 'POST',
+  body: formData
+})
+  .then(response => response.json())
+  .then(data => console.log(data))
+  .catch(error => console.error(error));
+                    </pre>
+                </div>
+            </div>
+        </div>
+    </div>
+    <p class="note">* Esta é uma documentação básica da API.</p>
+</body>
+</html>

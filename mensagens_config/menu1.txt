@@ -1,0 +1,7 @@
+<b>Olá</b>?! <i>Como posso ajudar você hoje</i>?
+
+{id0} Se você é um cliente e precisa dos nossos serviços de resolução de captchas, selecione a opção <b>Opções para Clientes</b> para enviar seus captchas e obter soluções rápidas e precisas.
+
+{id1} Se você é um trabalhador talentoso em resolver captchas e deseja ganhar dinheiro com suas habilidades, selecione a opção <b>Trabalhar Agora</b> para começar a resolver captchas e obter recompensas por cada um resolvido com sucesso.
+
+Escolha uma das opções abaixo para continuar:

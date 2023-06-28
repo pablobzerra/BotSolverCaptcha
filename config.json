@@ -1,0 +1,29 @@
+{
+    "token": "",
+    "email": "",
+    "owner": 0,
+    "mercado_pago": {
+        "token_id": "",
+        "token_private": ""
+    },
+    "channels": {
+        "trolls_channel": "?????????",
+        "errados_channel": "?????????",
+        "admin_history": "??????????"
+    },
+    "menssages": {
+        "bem_vindo":"mensagens_config/menu1.txt",
+        "trabalhador_iniciando": "mensagens_config/trabalhador_iniciando.txt",
+        "cliente_iniciando": "mensagens_config/cliente_iniciando.txt",
+        "trabalhador_registrado": "mensagens_config/trabalhador_registrado.txt",
+        "cliente_registrado": "mensagens_config/cliente_registrado.txt",
+        "perfil_trabalhador": "mensagens_config/perfil_trabalhador.txt",
+        "perfil_cliente": "mensagens_config/perfil_cliente.txt",
+        "tutorial_historico": "mensagens_config/tutorial_historico.txt",
+        "history_trabalhador": "mensagens_config/history_trabalhador.txt",
+        "history_cliente": "mensagens_config/cliente_historico.txt",
+        "history_admin": "mensagens_config/admin_history.txt",
+        "tabela_precos": "mensagens_config/tabela_precos.txt",
+        "preco_personalizado": "mensagens_config/preco_personalizado.txt"
+    }
+}

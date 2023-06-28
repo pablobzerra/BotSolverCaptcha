@@ -1,0 +1,7 @@
+[ CAPTCHA ]
+ID: <code>{id_captcha}</code>
+Recompensa: {recompensa}
+Resposta: {text}
+
+[ SALDO ]
+Seu saldo: {saldo}

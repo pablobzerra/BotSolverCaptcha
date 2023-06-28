@@ -1,0 +1,24 @@
+<b>Parabéns! Você está registrado como cliente.</b>
+
+<i>Agora você faz parte do nosso serviço "Nome do Serviço". Como cliente, você terá acesso à nossa API para envio de captchas e receberá as soluções correspondentes.</i>
+
+<b>Aqui estão algumas informações importantes para você:</b>
+
+- Tipo de serviço: Resolução de captchas.
+- Acesso à API: Utilize a nossa <a href="">API</a> para enviar captchas e receber as soluções correspondentes. 
+- Pagamento: Para utilizar nosso serviço, você pode comprar créditos correspondentes ao número de captchas a serem resolvidos.
+- Recursos disponíveis: Tenha acesso ao histórico de trabalhos, opções de configuração de pagamento e suporte.
+
+Certifique-se de utilizar corretamente nossa <a href="">API</a> para enviar os captchas e receber as soluções de forma eficiente.
+
+Se você tiver alguma dúvida ou precisar de assistência, não hesite em entrar em contato com nossa equipe de suporte.
+
+<b>Selecione uma das opções abaixo:</b>
+- Comprar Serviço: Adquira créditos para utilizar nosso serviço de resolução de captchas.
+- Histórico de Trabalhos: Visualize um histórico dos captchas enviados e das soluções recebidas.
+- Configurações de Pagamento: Gerencie suas preferências de pagamento.
+- Suporte e Contato: Entre em contato com nossa equipe de suporte.
+
+<b>Central de Recursos:</b> [Em desenvolvimento]
+
+Obrigado por se juntar a nós como cliente. Desejamos a você uma ótima experiência ao utilizar nosso serviço de resolução de captchas!

@@ -1,0 +1,13 @@
+[ <b>TRABALHADOR</b> ]
+<b>ID</b>: {id_trabalhador}
+<b>NOME</b>: @{user_trabalhador}
+
+[ <b>CLIENTE</b> ]
+<b>ID</b>: {id_cliente}
+<b>NOME</b>: @{user_cliente}
+<b>TOKEN</b>: {token}
+
+[ <b>CAPTCHA</b> ]
+<b>ID</b>: <code>{id_captcha}</code>
+<b>RECOMPENSA</b>: {recompensa}
+<b>RESPOSTA</b>: {resposta}

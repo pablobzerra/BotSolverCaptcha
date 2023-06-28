@@ -1,0 +1,5 @@
+<b>ID</b>: {id}
+<b>Username</b>: {username}
+
+<b>Captchas</b>: {captchas}
+<b>Token</b>: <code>{token}</code>

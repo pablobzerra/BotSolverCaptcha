@@ -1,0 +1,4 @@
+Captchas: {c}
+Preço: R${preco}
+
+Você confirma?

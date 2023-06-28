@@ -1,0 +1,3 @@
+1. Crie um novo canal no Telegram.
+2. Adicione o bot Solve2Earn como administrador do canal.
+3. Digite /setHistorico no chat com o bot para associar o canal como seu canal de histórico.

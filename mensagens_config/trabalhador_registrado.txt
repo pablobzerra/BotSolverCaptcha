@@ -1,0 +1,24 @@
+<b>Parabéns! Você está registrado como trabalhador.</b>
+
+<i>Agora você faz parte da nossa equipe de resolução de captchas no serviço "Nome do Serviço". Como trabalhador, você terá a oportunidade de ajudar a resolver captchas e receber uma remuneração por cada captcha resolvido.</i>
+
+<b>Aqui estão algumas informações importantes para você:</b>
+
+- Tipo de trabalho: Resolução de captchas.
+- Método de acesso: Você pode utilizar o nosso bot no Telegram para ter acesso aos captchas disponíveis.
+- Remuneração: Cada captcha resolvido com sucesso irá gerar uma quantia em dinheiro que será acumulada em sua conta.
+- Pagamento mínimo: O valor mínimo necessário para solicitar um saque é de R$10.
+
+Certifique-se de ficar atento aos captchas disponíveis e participe regularmente para aumentar seus ganhos.
+
+Se você tiver alguma dvida ou precisar de assistência, não hesite em entrar em contato com nossa equipe de suporte.
+
+<b>Selecione uma das opções abaixo:</b>
+- Perfil: Visualize e atualize suas informações de perfil.
+- Trabalhar: Comece a trabalhar resolvendo captchas.
+- Pagamento: Gerencie suas preferências de pagamento.
+- Suporte e Contato: Entre em contato com nossa equipe de suporte.
+
+<b>Central de Recursos:</b> [Em desenvolvimento]
+
+Obrigado por se juntar a nós como um trabalhador. Desejamos a você sucesso na resolução de captchas e ótimos ganhos!
